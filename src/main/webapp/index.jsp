@@ -219,7 +219,7 @@
             <div class="card">
                 <img src="./assets/img/card 4.webp" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Anupama</h2>
+                    <h2 class="name">hi my name is baba and i am from earth</h2>
                     <h6 class="des">Lorem ipsum dolor sit consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
